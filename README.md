@@ -2,4 +2,4 @@
 
 JianYi Huang, Deh-Jun Tzou, Naga Sravika Bodapati
 
-Comparing speeds between HTTP and HTTPs
+Comparing latencies between HTTP and HTTPS
